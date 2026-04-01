@@ -1,0 +1,66 @@
+[
+{"name":"The SpitJack","cuisine":["Irish","International"],"location":"Cork City Centre","coordinates":{"lat":51.8985,"lng":-8.4756},"rating":{"average":4.7,"min":4.5,"max":4.9},"price":{"range":"€€€","avg_meal_eur":"25-40"},"opening_hours":"09:00-22:00"},
+{"name":"Market Lane","cuisine":["Irish","Healthy"],"location":"Cork City Centre","coordinates":{"lat":51.8987,"lng":-8.4749},"rating":{"average":4.6,"min":4.4,"max":4.8},"price":{"range":"€€€","avg_meal_eur":"20-35"},"opening_hours":"12:00-22:00"},
+{"name":"Goldie","cuisine":["Seafood","Irish"],"location":"Cork City Centre","coordinates":{"lat":51.8990,"lng":-8.4752},"rating":{"average":4.8,"min":4.6,"max":5.0},"price":{"range":"€€€","avg_meal_eur":"30-45"},"opening_hours":"17:00-22:00"},
+{"name":"Liberty Grill","cuisine":["Irish","Steakhouse"],"location":"Cork City Centre","coordinates":{"lat":51.8979,"lng":-8.4748},"rating":{"average":4.5,"min":4.3,"max":4.7},"price":{"range":"€€€","avg_meal_eur":"20-35"},"opening_hours":"09:00-21:00"},
+{"name":"Paradiso","cuisine":["Vegetarian"],"location":"Cork City Centre","coordinates":{"lat":51.8975,"lng":-8.4760},"rating":{"average":4.8,"min":4.6,"max":5.0},"price":{"range":"€€€","avg_meal_eur":"30-50"},"opening_hours":"17:00-22:00"},
+{"name":"Da Mirco Osteria","cuisine":["Italian"],"location":"Cork City Centre","coordinates":{"lat":51.8981,"lng":-8.4762},"rating":{"average":4.8,"min":4.6,"max":5.0},"price":{"range":"€€€","avg_meal_eur":"25-40"},"opening_hours":"16:30-22:00"},
+{"name":"Nosta","cuisine":["Mediterranean","Turkish"],"location":"Cork City Centre","coordinates":{"lat":51.8989,"lng":-8.4745},"rating":{"average":4.8,"min":4.5,"max":5.0},"price":{"range":"€€€","avg_meal_eur":"20-35"},"opening_hours":"12:00-22:00"},
+{"name":"Dashi Sushi","cuisine":["Japanese","Sushi"],"location":"Cork City Centre","coordinates":{"lat":51.8983,"lng":-8.4739},"rating":{"average":4.8,"min":4.6,"max":5.0},"price":{"range":"€€€","avg_meal_eur":"25-45"},"opening_hours":"12:00-21:00"},
+{"name":"Elbow Lane","cuisine":["Irish","Brewpub"],"location":"Cork City Centre","coordinates":{"lat":51.8992,"lng":-8.4758},"rating":{"average":4.7,"min":4.5,"max":4.9},"price":{"range":"€€€","avg_meal_eur":"25-40"},"opening_hours":"17:00-22:00"},
+{"name":"Luigi Malones","cuisine":["Italian","Pizza"],"location":"Cork City Centre","coordinates":{"lat":51.8980,"lng":-8.4742},"rating":{"average":4.6,"min":4.4,"max":4.8},"price":{"range":"€€€","avg_meal_eur":"20-35"},"opening_hours":"12:00-22:00"},
+
+{"name":"Ichigo Ichie","cuisine":["Japanese","Fine Dining"],"location":"Cork","coordinates":{"lat":51.9010,"lng":-8.4700},"rating":{"average":4.8,"min":4.7,"max":5.0},"price":{"range":"€€€€","avg_meal_eur":"80-120"},"opening_hours":"18:00-22:00"},
+{"name":"Isaacs Restaurant","cuisine":["European","Irish"],"location":"Cork City Centre","coordinates":{"lat":51.9001,"lng":-8.4705},"rating":{"average":4.6,"min":4.4,"max":4.8},"price":{"range":"€€€","avg_meal_eur":"25-40"},"opening_hours":"17:00-22:00"},
+{"name":"Cornstore","cuisine":["Steakhouse","Irish"],"location":"Cork City Centre","coordinates":{"lat":51.8986,"lng":-8.4740},"rating":{"average":4.6,"min":4.4,"max":4.8},"price":{"range":"€€€","avg_meal_eur":"30-50"},"opening_hours":"12:00-22:00"},
+{"name":"Scoozi","cuisine":["Italian","European"],"location":"Cork City Centre","coordinates":{"lat":51.8978,"lng":-8.4735},"rating":{"average":4.5,"min":4.3,"max":4.7},"price":{"range":"€€€","avg_meal_eur":"20-35"},"opening_hours":"12:00-21:30"},
+{"name":"Coqbull","cuisine":["Burgers","American"],"location":"Cork City Centre","coordinates":{"lat":51.8993,"lng":-8.4741},"rating":{"average":4.5,"min":4.2,"max":4.7},"price":{"range":"€€","avg_meal_eur":"15-25"},"opening_hours":"12:00-22:00"},
+{"name":"Son of a Bun","cuisine":["Burgers","Street Food"],"location":"Cork City Centre","coordinates":{"lat":51.8982,"lng":-8.4765},"rating":{"average":4.6,"min":4.4,"max":4.8},"price":{"range":"€€","avg_meal_eur":"10-20"},"opening_hours":"12:00-21:00"},
+{"name":"Koto","cuisine":["Asian","Vietnamese"],"location":"Cork City Centre","coordinates":{"lat":51.8984,"lng":-8.4750},"rating":{"average":4.6,"min":4.4,"max":4.8},"price":{"range":"€€","avg_meal_eur":"15-25"},"opening_hours":"12:00-22:00"},
+{"name":"Tequila Jacks","cuisine":["Mexican"],"location":"Cork City Centre","coordinates":{"lat":51.8995,"lng":-8.4738},"rating":{"average":4.4,"min":4.2,"max":4.6},"price":{"range":"€€","avg_meal_eur":"15-25"},"opening_hours":"12:00-22:00"},
+{"name":"Electric","cuisine":["European","Bar Food"],"location":"Cork City Centre","coordinates":{"lat":51.8997,"lng":-8.4729},"rating":{"average":4.4,"min":4.2,"max":4.6},"price":{"range":"€€€","avg_meal_eur":"20-35"},"opening_hours":"12:00-23:00"},
+{"name":"Greenes Restaurant","cuisine":["Fine Dining","Irish"],"location":"Cork City Centre","coordinates":{"lat":51.9005,"lng":-8.4718},"rating":{"average":4.7,"min":4.5,"max":4.9},"price":{"range":"€€€€","avg_meal_eur":"50-80"},"opening_hours":"17:00-22:00"},
+
+{"name":"The Oliver Plunkett","cuisine":["Pub Food","Irish"],"location":"Cork City Centre","coordinates":{"lat":51.8989,"lng":-8.4743},"rating":{"average":4.4,"min":4.2,"max":4.6},"price":{"range":"€€","avg_meal_eur":"15-25"},"opening_hours":"10:00-23:30"},
+{"name":"Gallaghers Gastro Pub","cuisine":["Irish","Gastropub"],"location":"Cork City Centre","coordinates":{"lat":51.8991,"lng":-8.4751},"rating":{"average":4.5,"min":4.3,"max":4.7},"price":{"range":"€€€","avg_meal_eur":"20-35"},"opening_hours":"12:00-22:00"},
+{"name":"The Quay Co-op","cuisine":["Vegetarian","Organic"],"location":"Cork City Centre","coordinates":{"lat":51.8972,"lng":-8.4780},"rating":{"average":4.6,"min":4.4,"max":4.8},"price":{"range":"€€","avg_meal_eur":"10-20"},"opening_hours":"09:00-21:00"},
+{"name":"Cafe Paradiso","cuisine":["Vegetarian","Fine Dining"],"location":"Cork City Centre","coordinates":{"lat":51.8976,"lng":-8.4763},"rating":{"average":4.8,"min":4.6,"max":5.0},"price":{"range":"€€€€","avg_meal_eur":"40-70"},"opening_hours":"17:00-22:00"},
+{"name":"Jacques Restaurant","cuisine":["French","European"],"location":"Cork City Centre","coordinates":{"lat":51.8974,"lng":-8.4746},"rating":{"average":4.7,"min":4.5,"max":4.9},"price":{"range":"€€€€","avg_meal_eur":"50-80"},"opening_hours":"18:00-22:00"},
+
+{"name":"Rossini's","cuisine":["Italian"],"location":"Cork City Centre","coordinates":{"lat":51.8979,"lng":-8.4731},"rating":{"average":4.5,"min":4.3,"max":4.7},"price":{"range":"€€€","avg_meal_eur":"25-40"},"opening_hours":"17:00-22:00"},
+{"name":"Sakura","cuisine":["Japanese","Asian"],"location":"Cork City Centre","coordinates":{"lat":51.8988,"lng":-8.4725},"rating":{"average":4.4,"min":4.2,"max":4.6},"price":{"range":"€€","avg_meal_eur":"15-25"},"opening_hours":"12:00-22:00"},
+{"name":"Thali Nepal","cuisine":["Indian","Nepalese"],"location":"Cork City Centre","coordinates":{"lat":51.8981,"lng":-8.4754},"rating":{"average":4.6,"min":4.4,"max":4.8},"price":{"range":"€€","avg_meal_eur":"15-25"},"opening_hours":"12:00-22:00"},
+{"name":"Haveli","cuisine":["Indian"],"location":"Cork City Centre","coordinates":{"lat":51.8977,"lng":-8.4769},"rating":{"average":4.5,"min":4.3,"max":4.7},"price":{"range":"€€","avg_meal_eur":"15-25"},"opening_hours":"12:00-22:30"},
+{"name":"Lennoxs","cuisine":["Fast Food","Irish"],"location":"Cork City Centre","coordinates":{"lat":51.8965,"lng":-8.4790},"rating":{"average":4.4,"min":4.2,"max":4.6},"price":{"range":"€","avg_meal_eur":"8-15"},"opening_hours":"12:00-23:00"},
+
+{"name":"Barry's of Douglas","cuisine":["Irish"],"location":"Douglas","coordinates":{"lat":51.8800,"lng":-8.4350},"rating":{"average":4.5,"min":4.3,"max":4.7},"price":{"range":"€€€","avg_meal_eur":"20-35"},"opening_hours":"12:00-21:00"},
+{"name":"East Village Bar & Grill","cuisine":["European"],"location":"Douglas","coordinates":{"lat":51.8795,"lng":-8.4360},"rating":{"average":4.6,"min":4.4,"max":4.8},"price":{"range":"€€€","avg_meal_eur":"20-35"},"opening_hours":"12:00-22:00"},
+
+{"name":"Dino's","cuisine":["Fast Food"],"location":"Blackpool","coordinates":{"lat":51.9100,"lng":-8.4800},"rating":{"average":4.4,"min":4.2,"max":4.6},"price":{"range":"€","avg_meal_eur":"8-15"},"opening_hours":"12:00-23:00"},
+{"name":"The Elm Tree","cuisine":["Irish"],"location":"Glanmire","coordinates":{"lat":51.9200,"lng":-8.4000},"rating":{"average":4.6,"min":4.4,"max":4.8},"price":{"range":"€€€","avg_meal_eur":"20-35"},"opening_hours":"12:00-21:00"},
+
+{"name":"Ramen","cuisine":["Japanese"],"location":"Ballincollig","coordinates":{"lat":51.8900,"lng":-8.5800},"rating":{"average":4.5,"min":4.3,"max":4.7},"price":{"range":"€€","avg_meal_eur":"15-20"},"opening_hours":"12:00-21:00"},
+{"name":"Miyazaki","cuisine":["Japanese"],"location":"Cork","coordinates":{"lat":51.9000,"lng":-8.4700},"rating":{"average":4.7,"min":4.5,"max":4.9},"price":{"range":"€€","avg_meal_eur":"15-25"},"opening_hours":"12:00-20:00"},
+
+{"name":"Camile Thai","cuisine":["Thai"],"location":"Douglas","coordinates":{"lat":51.8785,"lng":-8.4375},"rating":{"average":4.4,"min":4.2,"max":4.6},"price":{"range":"€€","avg_meal_eur":"15-25"},"opening_hours":"12:00-22:00"},
+{"name":"Royal Palace","cuisine":["Chinese"],"location":"Blackrock","coordinates":{"lat":51.8900,"lng":-8.4050},"rating":{"average":4.3,"min":4.1,"max":4.5},"price":{"range":"€€","avg_meal_eur":"15-25"},"opening_hours":"12:00-22:30"},
+
+{"name":"Il Padrino","cuisine":["Italian"],"location":"Ballincollig","coordinates":{"lat":51.8920,"lng":-8.5750},"rating":{"average":4.5,"min":4.3,"max":4.7},"price":{"range":"€€€","avg_meal_eur":"20-35"},"opening_hours":"12:00-22:00"},
+{"name":"Curry House","cuisine":["Indian"],"location":"Mayfield","coordinates":{"lat":51.9050,"lng":-8.4400},"rating":{"average":4.4,"min":4.2,"max":4.6},"price":{"range":"€€","avg_meal_eur":"15-25"},"opening_hours":"12:00-22:00"},
+{"name":"Osho","cuisine":["Indian"],"location":"Togher","coordinates":{"lat":51.8850,"lng":-8.5000},"rating":{"average":4.6,"min":4.4,"max":4.8},"price":{"range":"€€","avg_meal_eur":"15-25"},"opening_hours":"12:00-22:00"},
+{"name":"Scoops","cuisine":["Desserts","Cafe"],"location":"Blackrock","coordinates":{"lat":51.8880,"lng":-8.4100},"rating":{"average":4.5,"min":4.3,"max":4.7},"price":{"range":"€","avg_meal_eur":"5-10"},"opening_hours":"10:00-20:00"},
+{"name":"The Anglers","cuisine":["Seafood","Irish"],"location":"Carrigaline","coordinates":{"lat":51.8100,"lng":-8.4000},"rating":{"average":4.6,"min":4.4,"max":4.8},"price":{"range":"€€€","avg_meal_eur":"25-40"},"opening_hours":"12:00-21:00"},
+{"name":"Cafe Mexicana","cuisine":["Mexican"],"location":"Douglas","coordinates":{"lat":51.8790,"lng":-8.4340},"rating":{"average":4.4,"min":4.2,"max":4.6},"price":{"range":"€€","avg_meal_eur":"15-25"},"opening_hours":"12:00-22:00"},
+
+{"name":"Burgers Hub","cuisine":["Burgers"],"location":"Cork","coordinates":{"lat":51.9020,"lng":-8.4680},"rating":{"average":4.3,"min":4.1,"max":4.5},"price":{"range":"€€","avg_meal_eur":"10-20"},"opening_hours":"12:00-22:00"},
+{"name":"Pizza Corner","cuisine":["Pizza"],"location":"Cork","coordinates":{"lat":51.9030,"lng":-8.4690},"rating":{"average":4.2,"min":4.0,"max":4.4},"price":{"range":"€€","avg_meal_eur":"10-20"},"opening_hours":"12:00-23:00"},
+{"name":"Dragon Express","cuisine":["Chinese"],"location":"Cork","coordinates":{"lat":51.9040,"lng":-8.4700},"rating":{"average":4.1,"min":3.9,"max":4.3},"price":{"range":"€","avg_meal_eur":"8-15"},"opening_hours":"12:00-23:00"},
+{"name":"Spice Route","cuisine":["Indian"],"location":"Cork","coordinates":{"lat":51.9050,"lng":-8.4710},"rating":{"average":4.4,"min":4.2,"max":4.6},"price":{"range":"€€","avg_meal_eur":"15-25"},"opening_hours":"12:00-22:00"},
+{"name":"Sushi Bento","cuisine":["Japanese"],"location":"Cork","coordinates":{"lat":51.9060,"lng":-8.4720},"rating":{"average":4.5,"min":4.3,"max":4.7},"price":{"range":"€€","avg_meal_eur":"15-25"},"opening_hours":"12:00-21:00"},
+
+{"name":"Urban Grill","cuisine":["Steakhouse"],"location":"Cork","coordinates":{"lat":51.9070,"lng":-8.4730},"rating":{"average":4.6,"min":4.4,"max":4.8},"price":{"range":"€€€","avg_meal_eur":"25-40"},"opening_hours":"12:00-22:00"},
+{"name":"Healthy Bites","cuisine":["Healthy"],"location":"Cork","coordinates":{"lat":51.9080,"lng":-8.4740},"rating":{"average":4.3,"min":4.1,"max":4.5},"price":{"range":"€€","avg_meal_eur":"10-20"},"opening_hours":"08:00-20:00"},
+{"name":"Cafe Aroma","cuisine":["Cafe"],"location":"Cork","coordinates":{"lat":51.9090,"lng":-8.4750},"rating":{"average":4.4,"min":4.2,"max":4.6},"price":{"range":"€","avg_meal_eur":"5-15"},"opening_hours":"08:00-18:00"},
+{"name":"BBQ House","cuisine":["BBQ"],"location":"Cork","coordinates":{"lat":51.9105,"lng":-8.4760},"rating":{"average":4.5,"min":4.3,"max":4.7},"price":{"range":"€€€","avg_meal_eur":"20-35"},"opening_hours":"12:00-22:00"},
+{"name":"Vegan Delight","cuisine":["Vegan"],"location":"Cork","coordinates":{"lat":51.9110,"lng":-8.4770},"rating":{"average":4.6,"min":4.4,"max":4.8},"price":{"range":"€€","avg_meal_eur":"10-20"},"opening_hours":"10:00-21:00"}
+]
