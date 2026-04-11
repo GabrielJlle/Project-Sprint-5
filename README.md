@@ -1,2 +1,2 @@
 # Project-Sprint-5
-This repository has the purpose to develop an API using Render.
+The purpose of this repository is to develop an API using Render.
